@@ -1,0 +1,15 @@
+.App {
+  margin-top: 7rem;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+input {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+select {
+  font-size: 1.5rem;
+}
